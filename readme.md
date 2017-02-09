@@ -9,7 +9,7 @@ small-num='2' 小数位数 可选
 
 #usage
 
-'<input number-limit zheng-num='9' small-num='2' ng-model="num"/>'
+''<input number-limit zheng-num='9' small-num='2' ng-model="num"/>''
 
 #how
 把输入的值转换成字符串处理：以小数点位分开位数组，分别处理
